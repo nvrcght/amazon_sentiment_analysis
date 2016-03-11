@@ -10,7 +10,7 @@ a classifier makes using amazon products reviews.
 - comparing the results of this simpler classifier with those of the one using all of the words
 
 
-###Learning outcomes
+###Outcomes
 
 Execute sentiment analysis code with the IPython notebook   
 Load and transform real, text data    
